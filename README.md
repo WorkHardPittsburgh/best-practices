@@ -18,7 +18,11 @@ Here is a process (that is in process) for contributing to the to-be-named app f
 
 * Make sure your master is up to date (git pull if not)
 * Create a branch for the aspect of the app that you are working on
+* Try to name it in a way that relates to what you are doing, fixing, or working on
 * After you have made some changes (sooner, rather than later) create a pull request for the branch and lable it "work in progress"
+
+## Tests
+* To be added
 
 ## Get ready for a code review of your branch
 
@@ -32,7 +36,7 @@ Here is a process (that is in process) for contributing to the to-be-named app f
 
 * Make all changes
 * Recommit
-* When the pull request is approved, merge it into master
+* After the pull request is approved (and not before), merge it into master
 * After the pull request is merged, delete the branch in the github repo
 * Delete the branch in your local repo
 
@@ -40,3 +44,11 @@ Here is a process (that is in process) for contributing to the to-be-named app f
 
 * Be specific and clear
 * Include screenshots if relevant
+
+## Issues
+
+* If you notice problems with something in the app, open up an issue
+* To fix an issue, first assign yourself to it
+* Create a branch and an asana card (see above)
+* In the pull request, link to the issue
+* In the issue, link to the pull request
